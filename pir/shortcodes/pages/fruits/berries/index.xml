@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Berries :: Cap&#39;n Hugo Relearrrn Theme</title>
-    <link>https://ouhft.github.io/hugo-theme-relearn/pir/shortcodes/pages/fruits/berries/index.html</link>
+    <link>https://uk-gov-mirror.github.io/ouhft.hugo-theme-relearn/pir/shortcodes/pages/fruits/berries/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>art-x-pir</language>
     <lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ouhft.github.io/hugo-theme-relearn/pir/shortcodes/pages/fruits/berries/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://uk-gov-mirror.github.io/ouhft.hugo-theme-relearn/pir/shortcodes/pages/fruits/berries/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cranberry</title>
-      <link>https://ouhft.github.io/hugo-theme-relearn/pir/shortcodes/pages/fruits/berries/cranberry/index.html</link>
+      <link>https://uk-gov-mirror.github.io/ouhft.hugo-theme-relearn/pir/shortcodes/pages/fruits/berries/cranberry/index.html</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://ouhft.github.io/hugo-theme-relearn/pir/shortcodes/pages/fruits/berries/cranberry/index.html</guid>
+      <guid>https://uk-gov-mirror.github.io/ouhft.hugo-theme-relearn/pir/shortcodes/pages/fruits/berries/cranberry/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Blueberry</title>
-      <link>https://ouhft.github.io/hugo-theme-relearn/pir/shortcodes/pages/fruits/berries/blueberry/index.html</link>
+      <link>https://uk-gov-mirror.github.io/ouhft.hugo-theme-relearn/pir/shortcodes/pages/fruits/berries/blueberry/index.html</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://ouhft.github.io/hugo-theme-relearn/pir/shortcodes/pages/fruits/berries/blueberry/index.html</guid>
+      <guid>https://uk-gov-mirror.github.io/ouhft.hugo-theme-relearn/pir/shortcodes/pages/fruits/berries/blueberry/index.html</guid>
       <description></description>
     </item>
   </channel>

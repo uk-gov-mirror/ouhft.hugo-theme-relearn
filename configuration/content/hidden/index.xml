@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hidden Pages :: Hugo Relearn Theme</title>
-    <link>https://ouhft.github.io/hugo-theme-relearn/configuration/content/hidden/index.html</link>
+    <link>https://uk-gov-mirror.github.io/ouhft.hugo-theme-relearn/configuration/content/hidden/index.html</link>
     <description>Learn about the hidden pages feature</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://ouhft.github.io/hugo-theme-relearn/configuration/content/hidden/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://uk-gov-mirror.github.io/ouhft.hugo-theme-relearn/configuration/content/hidden/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

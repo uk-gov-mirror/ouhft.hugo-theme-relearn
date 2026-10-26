@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Include.errorlevel :: Front Matter :: Cap&#39;n Hugo Relearrrn Theme</title>
-    <link>https://ouhft.github.io/hugo-theme-relearn/pir/frontmatter/include.errorlevel/index.html</link>
+    <link>https://uk-gov-mirror.github.io/ouhft.hugo-theme-relearn/pir/frontmatter/include.errorlevel/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>art-x-pir</language>
-    <atom:link href="https://ouhft.github.io/hugo-theme-relearn/pir/frontmatter/include.errorlevel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://uk-gov-mirror.github.io/ouhft.hugo-theme-relearn/pir/frontmatter/include.errorlevel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Include</title>
-      <link>https://ouhft.github.io/hugo-theme-relearn/pir/shortcodes/include/index.html</link>
+      <link>https://uk-gov-mirror.github.io/ouhft.hugo-theme-relearn/pir/shortcodes/include/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ouhft.github.io/hugo-theme-relearn/pir/shortcodes/include/index.html</guid>
+      <guid>https://uk-gov-mirror.github.io/ouhft.hugo-theme-relearn/pir/shortcodes/include/index.html</guid>
       <description>Displays content from other Marrrkdown files</description>
     </item>
   </channel>
